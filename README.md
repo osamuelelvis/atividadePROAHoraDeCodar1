@@ -20,4 +20,4 @@ O objetivo dessas atividades é praticar conceitos fundamentais como:
 1. Baixe e instale o Portugol Studio
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/atividadePROAHoraDeCodar1.git
+   git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodar1.git
