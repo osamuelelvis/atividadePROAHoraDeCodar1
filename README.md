@@ -1,4 +1,4 @@
-# 🧠 Atividade PROA - Hora de Codar 1
+# 🧠 Atividade PROA - Hora de Codar 1 (Portugol)
 
 Este repositório contém exercícios desenvolvidos durante o curso PROA, utilizando Portugol Studio, com foco em lógica de programação.
 
@@ -19,5 +19,18 @@ O objetivo dessas atividades é praticar conceitos fundamentais como:
 
 1. Baixe e instale o Portugol Studio
 2. Clone este repositório:
-   ```bash
-   git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodar1.git
+```bash
+git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodar1.git
+```
+3. Abra os arquivos no Portugol Studio
+4. Execute os algoritmos
+
+## 📈 Aprendizados
+
+- Raciocínio lógico
+- Estruturação de algoritmos
+- Resolução de problemas básicos
+
+## 📌 Status do projeto
+
+✅ Concluído
