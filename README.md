@@ -7,8 +7,6 @@ Este repositório contém exercícios desenvolvidos durante o curso PROA, utiliz
 O objetivo dessas atividades é praticar conceitos fundamentais como:
 
 - Variáveis
-- Estruturas condicionais (if/else)
-- Laços de repetição
 - Entrada e saída de dados
 
 ## 🛠️ Tecnologias utilizadas
